@@ -1,4 +1,4 @@
-package com.jewel.patterns.slidingwindow;
+package com.jewel.patterns.slidingwindow.easy;
 
 public class MaxSumSubArray {
 
