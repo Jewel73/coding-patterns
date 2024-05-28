@@ -32,6 +32,6 @@ public class PracticeLongestSubstringWithKReplace {
     }
 
     public static void main(String[] args) {
-        System.out.print("Max len : "+ findLongestSubstring("aabccbb", 2));
+        System.out.print("Max len : "+ findLongestSubstring("aabccbbd", 2));
     }
 }
