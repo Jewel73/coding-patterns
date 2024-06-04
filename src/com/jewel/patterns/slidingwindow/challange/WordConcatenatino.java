@@ -48,6 +48,6 @@ class WordConcatenation {
         List<Integer> result = WordConcatenation.findWordConcatenation("catfoxcat", new String[] { "cat", "fox" });
         System.out.println(result);
         result = WordConcatenation.findWordConcatenation("catcatfoxfox", new String[] { "cat", "fox" });
-        System.out.println(result);
+        System.out.println(Math.pow(-3, 2));
     }
 }
